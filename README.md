@@ -28,7 +28,7 @@ npm >= 8
 
 Installation
 bash# Clone the repository
-git clone https://github.com/your-username/windows-mcp.git
+git clone [https://github.com/your-username/windows-mcp.git](https://github.com/emilioejus/Windows-MCP.git)
 cd windows-mcp
 
 # Install dependencies
